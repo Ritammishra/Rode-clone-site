@@ -14,7 +14,7 @@
 ![image](./Thumbnails/Thumbnail-7.png)
 ![image](./Thumbnails/Thumbnail-8.png)
 ![image](./Thumbnails/Thumbnail-9.png)
-
+[Live Preview](https://rode-clone-site-project.netlify.app/)
 <hr>
 
 ## Features
